@@ -18,10 +18,5 @@
         "nombre": "calabaza",
         "tiempo_regado": 44,
         "tiempo_recoleccion": 400
-    },
-    {
-        "nombre": "prueba",
-        "tiempo_regado": 3,
-        "tiempo_recoleccion": 5
     }
 ]

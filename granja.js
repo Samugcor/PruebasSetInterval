@@ -124,7 +124,7 @@ class Granja{
                 //let instance=JSON.parse(JSON.stringify(element));
                 //this.log.push(instance);
             });
-        },650)
+        },250)
 
     }
 
