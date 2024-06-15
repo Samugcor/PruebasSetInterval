@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "patata",
+        "tiempo_regado": 22,
+        "tiempo_recoleccion": 200
+    },
+    {
+        "nombre": "zanahoria",
+        "tiempo_regado": 15,
+        "tiempo_recoleccion": 150
+    },
+    {
+        "nombre": "maiz",
+        "tiempo_regado": 33,
+        "tiempo_recoleccion": 300
+    },
+    {
+        "nombre": "calabaza",
+        "tiempo_regado": 44,
+        "tiempo_recoleccion": 400
+    },
+    {
+        "nombre": "prueba",
+        "tiempo_regado": 3,
+        "tiempo_recoleccion": 5
+    }
+]
